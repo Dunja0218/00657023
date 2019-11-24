@@ -13,6 +13,7 @@
 		4B1A813E2384DD0000CF6E97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1A813D2384DD0000CF6E97 /* Assets.xcassets */; };
 		4B1A81412384DD0000CF6E97 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1A81402384DD0000CF6E97 /* Preview Assets.xcassets */; };
 		4B1A81442384DD0000CF6E97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B1A81422384DD0000CF6E97 /* LaunchScreen.storyboard */; };
+		4B1A814E2384E4B000CF6E97 /* EditPhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1A814D2384E4B000CF6E97 /* EditPhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		4B1A81402384DD0000CF6E97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		4B1A81432384DD0000CF6E97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4B1A81452384DD0000CF6E97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4B1A814D2384E4B000CF6E97 /* EditPhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditPhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				4B1A81372384DCFD00CF6E97 /* AppDelegate.swift */,
 				4B1A81392384DCFD00CF6E97 /* SceneDelegate.swift */,
 				4B1A813B2384DCFD00CF6E97 /* ContentView.swift */,
+				4B1A814D2384E4B000CF6E97 /* EditPhotoView.swift */,
 				4B1A813D2384DD0000CF6E97 /* Assets.xcassets */,
 				4B1A81422384DD0000CF6E97 /* LaunchScreen.storyboard */,
 				4B1A81452384DD0000CF6E97 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B1A81382384DCFD00CF6E97 /* AppDelegate.swift in Sources */,
+				4B1A814E2384E4B000CF6E97 /* EditPhotoView.swift in Sources */,
 				4B1A813A2384DCFD00CF6E97 /* SceneDelegate.swift in Sources */,
 				4B1A813C2384DCFD00CF6E97 /* ContentView.swift in Sources */,
 			);
